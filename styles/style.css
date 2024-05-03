@@ -1,5 +1,4 @@
 /* Body styles */
-
 body {
   font-family: Arial, sans-serif;
   background-color: #dfdfdf; 
@@ -9,7 +8,6 @@ body {
   background-position: center bottom; 
   background-attachment: fixed; 
 } 
-
 
 /* Header styles */
 header {
@@ -37,6 +35,12 @@ header {
   border-radius: 5px;
   padding: 10px;
   font-size: 16px;
+}
+
+/* Text color for elements around the input box */
+.container p,
+.form-check-label {
+  color: #fff; /* White text color */
 }
 
 .btn-primary {

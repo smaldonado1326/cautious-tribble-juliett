@@ -15,10 +15,10 @@ $(document).ready(function() {
             if (natoPhonetic[char]) {
                 phoneticText += natoPhonetic[char] + ' ';
             } else {
-                phoneticText += char + ' '; // If character not found in NATO phonetic, keep it as is
+                phoneticText += char + ' '; 
             }
         }
-        return phoneticText.trim(); // Trim any trailing whitespace
+        return phoneticText.trim(); 
     }
 
     // Function to convert text to kebab-case
