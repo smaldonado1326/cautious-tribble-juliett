@@ -21,6 +21,5 @@ The **Phonetic Converter** is a web application designed to convert text into va
 
 ## About
 
-This application was created by Sam Maldonado and is available on GitHub for further reference and collaboration.
+Created by Sam Maldonado.
 
-Feel free to use the **Phonetic Converter** to quickly convert text into phonetic formats for various purposes!
